@@ -22,3 +22,4 @@
 - [x] •You can run this file from command line in the following way.
      - [x] •python WeatherApplication.py --path "dataPath" --input "inputFile_Path" --dest "destinationFile_path"
             Example:python WeatherApplication.py --path "./data" --input "temperatures.csv" --dest "temperatures_stats.csv"
+- [x] Ouput will be saved dataPath/output folder.
